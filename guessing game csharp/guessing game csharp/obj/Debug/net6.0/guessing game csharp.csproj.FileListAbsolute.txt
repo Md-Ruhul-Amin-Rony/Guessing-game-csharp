@@ -1,0 +1,15 @@
+C:\Users\adiar\OneDrive\Desktop\guessing game csharp\guessing game csharp\guessing game csharp\bin\Debug\net6.0\guessing game csharp.exe
+C:\Users\adiar\OneDrive\Desktop\guessing game csharp\guessing game csharp\guessing game csharp\bin\Debug\net6.0\guessing game csharp.deps.json
+C:\Users\adiar\OneDrive\Desktop\guessing game csharp\guessing game csharp\guessing game csharp\bin\Debug\net6.0\guessing game csharp.runtimeconfig.json
+C:\Users\adiar\OneDrive\Desktop\guessing game csharp\guessing game csharp\guessing game csharp\bin\Debug\net6.0\guessing game csharp.dll
+C:\Users\adiar\OneDrive\Desktop\guessing game csharp\guessing game csharp\guessing game csharp\bin\Debug\net6.0\ref\guessing game csharp.dll
+C:\Users\adiar\OneDrive\Desktop\guessing game csharp\guessing game csharp\guessing game csharp\bin\Debug\net6.0\guessing game csharp.pdb
+C:\Users\adiar\OneDrive\Desktop\guessing game csharp\guessing game csharp\guessing game csharp\obj\Debug\net6.0\guessing game csharp.csproj.AssemblyReference.cache
+C:\Users\adiar\OneDrive\Desktop\guessing game csharp\guessing game csharp\guessing game csharp\obj\Debug\net6.0\guessing game csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adiar\OneDrive\Desktop\guessing game csharp\guessing game csharp\guessing game csharp\obj\Debug\net6.0\guessing game csharp.AssemblyInfoInputs.cache
+C:\Users\adiar\OneDrive\Desktop\guessing game csharp\guessing game csharp\guessing game csharp\obj\Debug\net6.0\guessing game csharp.AssemblyInfo.cs
+C:\Users\adiar\OneDrive\Desktop\guessing game csharp\guessing game csharp\guessing game csharp\obj\Debug\net6.0\guessing game csharp.csproj.CoreCompileInputs.cache
+C:\Users\adiar\OneDrive\Desktop\guessing game csharp\guessing game csharp\guessing game csharp\obj\Debug\net6.0\guessing game csharp.dll
+C:\Users\adiar\OneDrive\Desktop\guessing game csharp\guessing game csharp\guessing game csharp\obj\Debug\net6.0\ref\guessing game csharp.dll
+C:\Users\adiar\OneDrive\Desktop\guessing game csharp\guessing game csharp\guessing game csharp\obj\Debug\net6.0\guessing game csharp.pdb
+C:\Users\adiar\OneDrive\Desktop\guessing game csharp\guessing game csharp\guessing game csharp\obj\Debug\net6.0\guessing game csharp.genruntimeconfig.cache
